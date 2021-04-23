@@ -6,5 +6,5 @@ defmodule Inmana.Supplies.Get do
       nil -> {:error, %{result: "Supply not found", status: :not_found}}
       supply -> {:ok, supply}
     end
-  end 
+  end
 end

@@ -1,5 +1,4 @@
 defmodule Inmana.Welcomer do
-
   # Receber um nome e uma idade do usuário
   # Se o usuário chamar "banana" e tiver idade "42", ele recebe uma mensagem especial
   # Se o usuário for maior de idade, ele recebe uma mensagem normal
